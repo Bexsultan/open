@@ -1,0 +1,3 @@
+Логин: bekss
+Пароль: 2412
+Фото: /home/beksultan/Desktop/sigma.jpg
